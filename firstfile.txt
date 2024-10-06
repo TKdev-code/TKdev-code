@@ -5,3 +5,7 @@ Brown
 Pink
 Red
 Green
+
+Light Blue
+Carmine Red
+Sepia Brown
